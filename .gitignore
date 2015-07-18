@@ -16,6 +16,7 @@
 
 /lib/erlsemver/
 /lib/erlstrap/
+/lib/gitoad/
 /lib/yolf/
 
 /erts-[0-9].[0-9]/
