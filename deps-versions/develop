@@ -1,8 +1,0 @@
-dep_clone_args = \
-	'-b master $(repo_base_url)/erlsemver.git' \
-	'-b master $(repo_base_url)/erlstrap.git' \
-	'-b master $(repo_base_url)/gitoad.git' \
-	'-b master $(repo_base_url)/yolf.git'
-
-deps = \
-	erlsemver erlstrap gitoad yolf
